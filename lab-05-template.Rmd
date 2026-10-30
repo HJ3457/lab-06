@@ -44,7 +44,7 @@ The colours are confusing. The layout of the graph is confusing and makes it ver
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+_The axes don't have units, there is no explanation as to what the point sizes and colours mean, names are abbreviated in a way which isn't easily understandable to a reader, there's no title or clear explanation as to what this data visualisation's purpose is, and/or what is being investigated._
 
 
 
