@@ -10,8 +10,8 @@ output: html_document
 ```{r load-packages, message = FALSE, warning=FALSE}
 library(tidyverse)
 library(ggplot2)
-# Install that package first 
-# install.packages("fivethirtyeight")
+#Install that package first 
+#install.packages("fivethirtyeight")
 library(fivethirtyeight)
 ```
 
