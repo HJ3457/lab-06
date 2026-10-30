@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+Very bad graph, the way different countries are being layered up over each other makes it confusing to compare the area that correspond to each countries' population. 
 
 
 # Data Visualization for Halloween 
