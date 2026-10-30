@@ -84,7 +84,7 @@ glimpse(candy_df)
 How many observations and variables are in this dataset?
 Did you identify the type of variables, remember that this detail is crucial to create which kind of data visualization in general. 
 
-_Write your comments about results_
+there are 85 observations in this dataset. There are character, logical and double variables. There are 13 variables of which the majority are logical.
 
 # Data viz - One variable at a time
 
