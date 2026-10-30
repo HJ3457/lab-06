@@ -110,6 +110,9 @@ Now look at a numerical variable, such as `winpercent`. Create an histogram for 
 
 ```{r}
 # Your code here
+ggplot(candy_rankings, aes(x = winpercent)) +
+  geom_histogram() +
+  labs(title = "Histogram of Win Percent", x = "Win Percent", y = "Count")
 
 ```
 
