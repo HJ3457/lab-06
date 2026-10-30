@@ -24,9 +24,7 @@ library(fivethirtyeight)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
-
+_The top observation says 1036 billion, when it should be 1036 million. The units should be consistent throughout the data visualisation to prevent confusion. A bar plot should have been used instead to make it easy to compare the observations._
 
 
 ## Image 2
@@ -35,7 +33,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+The colours are confusing. The layout of the graph is confusing and makes it very difficult to work out whats trying to do, graphing two variables on a single piechart is extremely confusing
 
 
 
